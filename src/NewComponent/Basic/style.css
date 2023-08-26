@@ -108,7 +108,7 @@
   }
   
   .card-read:after {
-    background-color: #b8bddd;
+    background-color: #bcc2e7;
     content: "";
     display: block;
     height: 1px;
@@ -120,7 +120,7 @@
   .card-tag {
     float: right;
     margin: 5px 0 0;
-    border: 1px solid #aaa;
+    border: 1px solid #bca8a8;
     padding: 5px 10px;
     cursor: pointer;
   }
@@ -136,7 +136,7 @@
   }
   
   .card-shadow {
-    background-color: #fff;
+    background-color: #e8dfdf;
     box-shadow: 0 2px 25px 2px rgba(0, 0, 0, 1), 0 2px 50px 2px rgba(0, 0, 0, 1),
       0 0 100px 3px rgba(0, 0, 0, 0.25);
     height: 1px;

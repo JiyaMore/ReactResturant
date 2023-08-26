@@ -1,5 +1,5 @@
 import React from 'react'
-import SampleImage from './Images/image3.jpg'
+
 
 const Menucard = ({menuData}) => {
 
@@ -24,7 +24,7 @@ const Menucard = ({menuData}) => {
           {Description}</span>
 <div className='"card-read'>Read</div>
         </div>
-        {<img src={SampleImage} alt="Imagibhaves" className='=card-media'/> }
+        {<img src={Image} alt="Imagibhaves" className='=card-media'/> }
         <span className='card-tag subtle'>ODER </span>
       </div>
     </div>
